@@ -1,2 +1,2 @@
-# curriculum
-See more about me
+# Curriculum
+Read more about me
