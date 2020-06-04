@@ -5,7 +5,7 @@ Desenvolvedor Web - Pleno / Front-end e Back-end.
 :iphone:   (85) 98815 - 6353 <br>
 :envelope:  rafael@midia12.com.br
 
-Meu nome é Rafael Costa, sou Desenvolvedor Web apaixonado por JavaScript e node JS, com grande desenvolvimento Front-end e UX. Músico nas horas vagas, adoro ir para igreja, ler e estudar inglês.
+Meu nome é Rafael Costa, sou Desenvolvedor Web apaixonado por JavaScript e node JS, com experiência desenvolvimento Front-end e UX. Músico nas horas vagas, adoro ir para igreja, ler e estudar inglês.
 
 ## Formação
 
