@@ -116,6 +116,4 @@ Em breve
 * Premiado com a medalha de mérito da Olimpíada Brasileira de Robótica (OBR) – Modalidade Teórica (2014). -->
 
 ## Me ajude!
-Encontrou algum erro nas informações? Sentiu falta de algo? Abre uma issue! <br>
-
-Inspirado no [richmanzoli](https://github.com/costaceta/curriculum/issues). Confere o dele lá também! :wink:
+Encontrou algum erro nas informações? Sentiu falta de algo? Abre uma issue! :wink:
