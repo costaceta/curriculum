@@ -115,8 +115,6 @@ Em breve
 <!-- ## Informações Adicionais
 * Premiado com a medalha de mérito da Olimpíada Brasileira de Robótica (OBR) – Modalidade Teórica (2014). -->
 
-<br><br>
-
 ## Me ajude!
 Encontrou algum erro nas informações? Sentiu falta de algo? Abre uma issue! <br>
 
